@@ -1,0 +1,9 @@
+{
+	"name":"vic/vic_excel_writer",
+	"license": "MIT",
+    "type": "project",
+    "description": "Just Excel Writer",
+    "autoload": {
+        "files": ["lib/VIC/EXCEL/WRITER/ExcelWriter.php"]
+    }
+}
